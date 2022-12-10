@@ -77,10 +77,16 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <title>Reset Password</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
     <style type="text/css">
-        body{ font: 14px sans-serif;}
+        body{ font: 14px sans-serif;
+            background-image: url('psn03.jpg');
+            background-color: #DE92FE;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover; }
         .wrapper{ width: 350px; padding: 20px; }
     </style>
 </head>
+<center>
 <body>
     <div class="wrapper">
         <h2>Reset Password</h2>
@@ -103,4 +109,5 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         </form>
     </div>    
 </body>
+</centre>
 </html>
