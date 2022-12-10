@@ -13,3 +13,5 @@ Updates:
 2. We have created a repository for our project, added the group member and our instructor as collaborators.
 3. The project proposal is uploaded on our repository.
 4. The database file for our project is uploaded on the repository. 
+5. The database file is updated. 
+ 
