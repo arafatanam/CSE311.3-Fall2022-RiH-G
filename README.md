@@ -9,3 +9,6 @@ Project motive: Creating four databases named Users, Games, Subscription and Acc
 Goals: To store information about users signing up for PSN accounts; To display users a variety of games available in the PSN store; To view the subscription costs and their availability for games; To view accessories available in the PSN Store.
     
 Updates: 
+1. A project proposal on Online PlayStation Store was submitted to our instructor.
+2. We have created a repository for our project, added the group member and our instructor as collaborators.
+3. The project proposal is uploaded on our repository.
