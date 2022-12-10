@@ -16,4 +16,5 @@ Updates:
 5. The database file is updated. 
 6. Updated some PHP files after completing the Frontend. 
 7. Uploaded Games php file which displays the games available.
+8. Uploaded Subscription PHP file which displays the types of subscription available for the user. 
  
