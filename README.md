@@ -23,6 +23,8 @@ Creating four databases named Users, Games, Subscription and Accessories to stor
 4. The database file for our project is uploaded on the repository. 
 5. The database file is updated. 
 6. Updated some PHP files after completing the Frontend. 
-7. Uploaded Games php file which displays the games available.
-8. Uploaded Subscription PHP file which displays the types of subscription available for the user. 
+7. Uploaded Games PHP file which displays the games available.
+8. Uploaded Subscription PHP file which displays the types of subscription available for the user.
+9. Uploaded Accessories PHP file which displays the types of accessories available.
+10. Uploaded the ER Diagram of our project 
  
