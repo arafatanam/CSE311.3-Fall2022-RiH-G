@@ -14,4 +14,5 @@ Updates:
 3. The project proposal is uploaded on our repository.
 4. The database file for our project is uploaded on the repository. 
 5. The database file is updated. 
+6. Updated some PHP files after completing the Frontend 
  
